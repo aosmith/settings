@@ -1,0 +1,6 @@
+[user]
+	name = Alex Smith
+  email = aosmith@gmail.com
+[alias]
+  st = status -sb
+  co = checkout
